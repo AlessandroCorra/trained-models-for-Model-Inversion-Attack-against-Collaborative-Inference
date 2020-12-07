@@ -1,0 +1,1 @@
+# trained-models-for-Model-Inversion-Attack-against-Collaborative-Inference
