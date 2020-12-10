@@ -13,7 +13,7 @@ Given the prohibitive hardware resources needed to train the models for the demo
 
 ### 2.Download the resources:
     1. clone the reposiroty: https://github.com/zechenghe/Inverse_Collaborative_Inference
-    3. download the folder "checkpoints" and place it into the cloned repository folder
+    2. download the folder "checkpoints" and place it into the cloned repository folder
 
 ### 3.Run the code
 #### Whitebox Attack 
