@@ -1,5 +1,9 @@
 # Trained models for: Model Inversion Attack against Collaborative Inference
 
+# Reference:
+This repo is based on the works done by Zecheng He, Tianwei Zhang and Ruby Lee in the following repo:
+https://github.com/zechenghe/Inverse_Collaborative_Inference
+
 Given the prohibitive hardware resources needed to train the models for the demo attacks of the referenced repository, we decided to share our trained models so that anybody can try them.
 
 ### 1.Dependencies
@@ -38,6 +42,3 @@ Given the prohibitive hardware resources needed to train the models for the demo
     python inverse_query_free_CIFAR.py --testing --layer conv11 --iter 500 --learning_rate 1e-1 --lambda_TV 2e0 --lambda_l2 0.0
     python inverse_query_free_CIFAR.py --testing --layer ReLU22 --iter 500 --learning_rate 1e-1 --lambda_TV 2e0 --lambda_l2 0.0
     python inverse_query_free_CIFAR.py --testing --layer ReLU32 --iter 500 --learning_rate 1e-1 --lambda_TV 2e0 --lambda_l2 0.0
-
-# Reference:
-https://github.com/zechenghe/Inverse_Collaborative_Inference
