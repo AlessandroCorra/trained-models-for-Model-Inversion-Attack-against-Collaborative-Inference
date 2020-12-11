@@ -1,6 +1,6 @@
 # Trained models for: Model Inversion Attack against Collaborative Inference
 
-This repo is based on the works done by Zecheng He, Tianwei Zhang and Ruby Lee in the following repo:
+This repo is based on the work done by Zecheng He, Tianwei Zhang and Ruby Lee in the following repo:
 https://github.com/zechenghe/Inverse_Collaborative_Inference
 
 Given the prohibitive hardware resources needed to train the models for the demo attacks of the referenced repository, we decided to share our trained models so that anybody can try them.
